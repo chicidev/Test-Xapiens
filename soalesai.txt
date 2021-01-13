@@ -1,0 +1,4 @@
+1. Jelaskan secara detail tentang bahasa pemrograman yang sedang anda kerjakan
+bahasa pemrograman nodejs merupakan salah satu framework bahasa pemrograman javascript
+
+2.Jelaskan aturan tentang bahasa pemrograman yang sedang anda kerjakan
